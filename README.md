@@ -1,2 +1,2 @@
 # Digital-signal-processing
-Make operation on signal with c# (FIR/IIR Filters)
+Make operations on signal with c# ( convolution,correlation,Quantization,encoding and FIR/IIR Filters )
