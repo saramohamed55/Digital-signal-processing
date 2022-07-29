@@ -1,0 +1,76 @@
+D:\Career\Teaching\2017\General\Second Term\DSP\DSP Toolbox\DSP_Toolbox\DSPComponentsUnitTest\bin\Debug\DSPComponentsUnitTest.dll
+D:\Career\Teaching\2017\General\Second Term\DSP\DSP Toolbox\DSP_Toolbox\DSPComponentsUnitTest\bin\Debug\DSPComponentsUnitTest.pdb
+D:\Career\Teaching\2017\General\Second Term\DSP\DSP Toolbox\DSP_Toolbox\DSPComponentsUnitTest\obj\Debug\DSPComponentsUnitTest.csprojResolveAssemblyReference.cache
+D:\Career\Teaching\2017\General\Second Term\DSP\DSP Toolbox\DSP_Toolbox\DSPComponentsUnitTest\obj\Debug\DSPComponentsUnitTest.dll
+D:\Career\Teaching\2017\General\Second Term\DSP\DSP Toolbox\DSP_Toolbox\DSPComponentsUnitTest\obj\Debug\DSPComponentsUnitTest.pdb
+D:\Career\Teaching\2017\General\Second Term\DSP\DSP Toolbox\DSP_Toolbox\DSPComponentsUnitTest\bin\Debug\DSPComponents.dll
+D:\Career\Teaching\2017\General\Second Term\DSP\DSP Toolbox\DSP_Toolbox\DSPComponentsUnitTest\bin\Debug\DSPComponents.pdb
+G:\dsp.toolbox.git\DSPToolbox\DSPComponentsUnitTest\bin\Debug\DSPComponentsUnitTest.dll
+G:\dsp.toolbox.git\DSPToolbox\DSPComponentsUnitTest\bin\Debug\DSPComponentsUnitTest.pdb
+G:\dsp.toolbox.git\DSPToolbox\DSPComponentsUnitTest\bin\Debug\DSPComponents.dll
+G:\dsp.toolbox.git\DSPToolbox\DSPComponentsUnitTest\bin\Debug\DSPComponents.pdb
+G:\dsp.toolbox.git\DSPToolbox\DSPComponentsUnitTest\obj\Debug\DSPComponentsUnitTest.csprojResolveAssemblyReference.cache
+G:\dsp.toolbox.git\DSPToolbox\DSPComponentsUnitTest\obj\Debug\DSPComponentsUnitTest.dll
+G:\dsp.toolbox.git\DSPToolbox\DSPComponentsUnitTest\obj\Debug\DSPComponentsUnitTest.pdb
+G:\[Hadeer] Lenovo Laptop\My Stuff\Signal Processing\2016-2017\DSP Toolbox\DSPToolbox\DSPComponentsUnitTest\obj\Debug\DSPComponentsUnitTest.csprojResolveAssemblyReference.cache
+G:\[Hadeer] Lenovo Laptop\My Stuff\Signal Processing\2016-2017\DSP Toolbox\DSPToolbox\DSPComponentsUnitTest\obj\Debug\DSPComponentsUnitTest.dll
+G:\[Hadeer] Lenovo Laptop\My Stuff\Signal Processing\2016-2017\DSP Toolbox\DSPToolbox\DSPComponentsUnitTest\obj\Debug\DSPComponentsUnitTest.pdb
+G:\[Hadeer] Lenovo Laptop\My Stuff\Signal Processing\2016-2017\DSP Toolbox\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\SignalFileConstruction
+G:\[Hadeer] Lenovo Laptop\My Stuff\Signal Processing\2016-2017\DSP Toolbox\DSPToolbox\DSPComponentsUnitTest\bin\Debug\DSPComponentsUnitTest.dll
+G:\[Hadeer] Lenovo Laptop\My Stuff\Signal Processing\2016-2017\DSP Toolbox\DSPToolbox\DSPComponentsUnitTest\bin\Debug\DSPComponentsUnitTest.pdb
+G:\[Hadeer] Lenovo Laptop\My Stuff\Signal Processing\2016-2017\DSP Toolbox\DSPToolbox\DSPComponentsUnitTest\bin\Debug\DSPComponents.dll
+G:\[Hadeer] Lenovo Laptop\My Stuff\Signal Processing\2016-2017\DSP Toolbox\DSPToolbox\DSPComponentsUnitTest\bin\Debug\DSPComponents.pdb
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\Adder_TestCase1.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\Adder_TestCase2.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\AutoCorrelationNonNormalizedNonPeriodic_TestCase.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\AutoCorrelationNonNormalizedPeriodic_TestCase.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\AutoCorrelationNonPeriodic_TestCase.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\AutoCorrelationNormalizedNonPeriodic_TestCase.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\AutoCorrelationNormalizedPeriodic_TestCase.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\AutoCorrelationPeriodic_TestCase.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\BPFCoefficients.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\BSFCoefficients.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\CrossCorrelationNonNormalized_TestCase.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\CrossCorrelationNormalized_TestCase.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\CrossCorrelation_Signal1.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\CrossCorrelation_Signal2.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\DFT_Signal1.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\ecg400.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\ecg_band_pass_filtered.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\ecg_band_stop_filtered.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\ecg_high_pass_filtered.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\ecg_low_pass_filtered.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\FastAutoCorrelation.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\FastAutoCorrelationNonNormalized_TestCase.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\FastAutoCorrelationNormalized_TestCase.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\HPFCoefficients.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\Input_ShiftFold.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\LPFCoefficients.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\MovingAverage_TestCase1.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\MovingAverage_TestCase2.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\MultiplySignalByConstant_TestCase1.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\MultiplySignalByConstant_TestCase2.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\MultiplySignalByConstant_TestCase3.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\Normalizer_TestCase1.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\Normalizer_TestCase2.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\Output_Fold.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\Output_Fold_Minus500.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\Output_Fold_Plus500.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\Output_Shift_Minus500.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\Output_Shift_Plus500.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\Signal1.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\Signal2.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\Signal3.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\SignalFileConstruction
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\Subtractor_TestCase1.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\TestingSignals\Subtractor_TestCase2.ds
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\DSPComponentsUnitTest.dll
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\DSPComponentsUnitTest.pdb
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\DSPComponents.dll
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\bin\Debug\DSPComponents.pdb
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\obj\Debug\DSPComponentsUnitTest.csproj.AssemblyReference.cache
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\obj\Debug\DSPComponentsUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\obj\Debug\DSPComponentsUnitTest.csproj.CopyComplete
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\obj\Debug\DSPComponentsUnitTest.dll
+C:\Users\Hp\Documents\third year\dsp\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponentsUnitTest\obj\Debug\DSPComponentsUnitTest.pdb
